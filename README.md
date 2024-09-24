@@ -19,10 +19,10 @@ Open access to output data and source codes of BIB paper 'A multi-omics study of
 `[MR_Egger]`--MR-Egger method\
 `[LDA]`--LDA MR-Egger method\
 `[PMR]`--PMR-Egger method\
-\
+
 ### tissue
 `[Amygdala][Anterior cingulate cortex][Caudate (basal ganglia)][Cerebellar hemisphere][Cerebellum][Cortex][Frontal cortex][Hippocampus][Hypothalamus][Nucleus accumbens (basal ganglia)][Pituitary][Putamen (basal ganglia)][Spinal cord (cervical c-1)][Substantia nigra]`\
-\
+
 ### Phenotype
 `[Trait]`\
 `[Expression]`\
