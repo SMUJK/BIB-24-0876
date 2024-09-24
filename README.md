@@ -2,9 +2,9 @@
 Open access to output data and source codes of BIB paper 'A multi-omics study of brain tissue transcription and DNA methylation revealing the genetic pathogenesis of ADHD'
 
 ## Directory names
-- TWAS_output
-  - `eTWAS_[method]`--eTWAS results
-    - `Expression_[method]_result_[tissue].csv`
+• TWAS_output
+  • `eTWAS_[method]`--eTWAS results
+    • `Expression_[method]_result_[tissue].csv`
 
   - `sTWAS_[method]`--sTWAS results
     - `Splicing_[method]_result_[tissue].csv`
