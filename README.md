@@ -1,7 +1,7 @@
 # A multi-omics study of brain tissue transcription and DNA methylation revealing the genetic pathogenesis of ADHD
-
+This paper is published on _Briefings in Bioinformatics_ journal. 
 # Code availability
-
+Please find all the source code on GitHub.
 # Output data
 Please find the open access to output data of the paper at [https://console.cloud.google.com/storage/browser/output20240516](https://console.cloud.google.com/storage/browser/output20240516) under folder `/BIB-24-0876_output_data`.
 
