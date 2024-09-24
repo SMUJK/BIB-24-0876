@@ -2,7 +2,7 @@ rm(list=ls())
 library(doParallel)
 source("/bib_function.R")
 samples<-read.csv("/samples.csv")
-cl <- makeCluster(6) #set number of cluster
+cl <- makeCluster(120) #set number of clusters
 registerDoParallel(cl)
 for (m in 1:14) {
   tissue<-samples$tis[m]  
