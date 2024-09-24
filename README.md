@@ -2,30 +2,38 @@
 Open access to output data and source codes of BIB paper 'A multi-omics study of brain tissue transcription and DNA methylation revealing the genetic pathogenesis of ADHD'
 
 ## Directory names
-- `TWAS_output`
-	- `eTWAS_[method]`--eTWAS results
-		- `Expression_[method]_result_[tissue].csv`
+• `/TWAS_output`
 
-	- `sTWAS_[method]`--sTWAS results
-		- `Splicing_[method]_result_[tissue].csv`
+&nbsp;&nbsp;&nbsp;&nbsp;• `/eTWAS_<Method>`  &nbsp;--Directory of eTWAS results
 
-- `Mediation_output`
-	- `[Phenotype]_to_[Phenotype]`--causal inference results for five different regulatory relationship
-	  - `[Phenotype]_to_[Phenotype]_[method].csv`
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• `/Expression_<Method>_result_<Tissue>.csv`
 
+&nbsp;&nbsp;&nbsp;&nbsp;• `/sTWAS_<Method>`  &nbsp;--Directory of sTWAS results
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• `/Splicing_<Method>_result_<Tissue>.csv`
+
+• `/Mediation_output`
+
+&nbsp;&nbsp;&nbsp;&nbsp;• `<Phenotype>_to_<Phenotype>`  &nbsp;--Causal inference results for five different regulatory relationship
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• `<Phenotype>_to_<Phenotype>_<Method>.csv`
 ## Options
-### Method
-`[IVW]`--Inverse-variance weighted method\
-`[MR_Egger]`--MR-Egger method\
-`[LDA]`--LDA MR-Egger method\
-`[PMR]`--PMR-Egger method\
+### \<Method\>
+`[IVW]`  &nbsp;--Inverse-variance weighted method
 
-### Tissue
-`[Amygdala][Anterior cingulate cortex][Caudate (basal ganglia)][Cerebellar hemisphere][Cerebellum][Cortex][Frontal cortex][Hippocampus][Hypothalamus][Nucleus accumbens (basal ganglia)][Pituitary][Putamen (basal ganglia)][Spinal cord (cervical c-1)][Substantia nigra]`\
+`[MR_Egger]`  &nbsp;--MR-Egger method
 
-### Phenotype
-`[Trait]`\
-`[Expression]`\
-`[Methylation]`\
-`[Splicing]`
+`[LDA]`  &nbsp;--LDA MR-Egger method
+
+`[PMR]`  &nbsp;--PMR-Egger method
+### \<Tissue\>
+`[Amygdala][Anterior cingulate cortex][Caudate (basal ganglia)][Cerebellar hemisphere][Cerebellum][Cortex][Frontal cortex][Hippocampus][Hypothalamus][Nucleus accumbens (basal ganglia)][Pituitary][Putamen (basal ganglia)][Spinal cord (cervical c-1)][Substantia nigra]`
+
+### \<Phenotype\>
+`[Trait]`  &nbsp;--ADHD
+
+`[Expression]`  &nbsp;--Gene expression
+
+`[Methylation]`  &nbsp;--DNA methylation
+
+`[Splicing]`  &nbsp;--Alternative splicing event expression
