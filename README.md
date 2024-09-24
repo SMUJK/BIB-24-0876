@@ -9,9 +9,9 @@ Open access to output data and source codes of BIB paper 'A multi-omics study of
   - `sTWAS_[method]`--sTWAS results\
     - `Splicing_[method]_result_[tissue].csv`\
 \
-Mediation_output\
-`[Phenotype]_to_[Phenotype]`--causal inference results for five different regulatory relationship\
-`[Phenotype]_to_[Phenotype]_[method]`\
+- Mediation_output\
+  - `[Phenotype]_to_[Phenotype]`--causal inference results for five different regulatory relationship\
+    - `[Phenotype]_to_[Phenotype]_[method].csv`\
 
 ## Options
 method:\
