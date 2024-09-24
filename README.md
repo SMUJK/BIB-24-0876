@@ -1,7 +1,7 @@
 # A multi-omics study of brain tissue transcription and DNA methylation revealing the genetic pathogenesis of ADHD
 This paper is published on _Briefings in Bioinformatics_ journal. 
 # Code availability
-Please find all the source code on GitHub files.
+Please find all the source code in GitHub files.
 
 `ivw.R` Main program, for TWAS using IVW
 
