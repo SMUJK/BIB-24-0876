@@ -1,7 +1,7 @@
 # BIB-24-0876
-Open access to output data and source codes of paper 'A multi-omics study of brain tissue transcription and DNA methylation revealing the genetic pathogenesis of ADHD' published on _Briefings in Bioinformatics_ journal.
+Please find the open access to output dataof paper 'A multi-omics study of brain tissue transcription and DNA methylation revealing the genetic pathogenesis of ADHD' published on _Briefings in Bioinformatics_ journal at [https://console.cloud.google.com/storage/browser/output20240516](https://console.cloud.google.com/storage/browser/output20240516).
 
-## Directory names in zip file _BIB-24-0876_output_data.zip_
+## File names under folder /_BIB-24-0876_output_data_
 • `/TWAS_output`
 
 &nbsp;&nbsp;&nbsp;&nbsp;• `/eTWAS_<Method>`  &nbsp;--Directory of eTWAS results
