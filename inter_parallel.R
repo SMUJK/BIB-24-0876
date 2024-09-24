@@ -7,7 +7,7 @@ library(purrr)
 library(dplyr)
 source("/bib_function.R")
 
-cl <- makeCluster(6) 
+cl <- makeCluster(120) 
 registerDoParallel(cl)
 ivw_list<-list()
 mr_egger_list<-list()
