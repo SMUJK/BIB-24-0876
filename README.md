@@ -12,7 +12,7 @@ Splicing_[method]_result_[tissue]\
 Mediation_output\
 [Phenotype]_to_[Phenotype]--causal inference results for five different regulatory relationship\
 [Phenotype]_to_[Phenotype]_[method]\
-\
+
 ## Options
 method:
 [IVW]--Inverse-variance weighted method\
@@ -27,4 +27,4 @@ Phenotype:\
 [Trait]\
 [Expression]\
 [Methylation]\
-[Splicing]\
+[Splicing]
