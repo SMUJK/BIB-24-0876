@@ -4,7 +4,7 @@ Open access to output data and source codes of BIB paper 'A multi-omics study of
 ## Directory names
 TWAS_output\
 eTWAS_[method]--eTWAS results\
-Expression_[method]_result_[tissue]\
+·Expression_[method]_result_[tissue].csv·\
 \
 sTWAS_[method]--sTWAS results\
 Splicing_[method]_result_[tissue]\
