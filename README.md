@@ -2,6 +2,19 @@
 This paper is published on _Briefings in Bioinformatics_ journal. 
 # Code availability
 Please find all the source code on GitHub files.
+
+`ivw.R` Main program, for TWAS using IVW
+
+`Egger_parallel.R` Main program, for TWAS using MR-Egger and LDA MR-Egger, which used a parallel computation.
+
+`PMR_Egger.R` Main program, for TWAS using PMR-Egger.
+
+`inter_parallel.R` Main program, for mediation analysis using all the methods.
+
+`bib_function.R` Code for R functions referred by the main programs
+
+`samples.csv` A data file referred by the main programs. It contains the information of brain tissue names, sample sized, and GTEx file names
+
 # Output data
 Please find the open access to output data of the paper at [https://console.cloud.google.com/storage/browser/output20240516](https://console.cloud.google.com/storage/browser/output20240516) under folder `/BIB-24-0876_output_data`.
 
