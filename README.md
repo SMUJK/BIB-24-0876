@@ -28,7 +28,6 @@ Open access to output data and source codes of paper 'A multi-omics study of bra
 `[PMR]`  &nbsp;--PMR-Egger method
 ### \<Tissue\>
 `[Amygdala][Anterior cingulate cortex][Caudate (basal ganglia)][Cerebellar hemisphere][Cerebellum][Cortex][Frontal cortex][Hippocampus][Hypothalamus][Nucleus accumbens (basal ganglia)][Pituitary][Putamen (basal ganglia)][Spinal cord (cervical c-1)][Substantia nigra]`
-
 ### \<Phenotype\>
 `[Trait]`  &nbsp;--ADHD
 
